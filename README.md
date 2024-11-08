@@ -24,3 +24,5 @@ Bir değişkende birden fazla değer tutmayı ve daha sonra ihtiyacım olan değ
 # 📌 08 - Methodlar
 
 Kod kalabalığı yapmadan kod yazmayı methodları kullanarak çözebileceğimizi öğrendim.
+# 📌 09 - Database Entegrasyonu
+# 📌 10 - Database İşlemleri
